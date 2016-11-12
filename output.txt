@@ -1,0 +1,542 @@
+Connecting to Oracle...
+Connected!
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Manuela
+Student identification number: 50       
+Student major: CS
+Student status: Undergraduate
+
+Courses the student(50) is enrolled:
+Course identification: CS310
+Course Credits: 3
+Course title: Data Structures
+Section: 1
+Instructor Name: Carver
+Meeting: W  in building: ARB from: 3:00 to: 4:30
+
+Total Credits: 3
+Tuition: $1133.25
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Carissa
+Student identification number: 51       
+Student major: CS
+Student status: Undergraduate
+
+Courses the student(51) is enrolled:
+Course identification: ART200
+Course Credits: 3
+Course title: Survey of Western Art
+Section: 1
+Instructor Name: Sandell
+Meeting: W  in building: MUB from: 10:00 to: 12:15
+
+Total Credits: 3
+Tuition: $1133.25
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Rosamond  
+Student identification number: 52       
+Student major: CS
+Student status: Undergraduate
+
+Courses the student(52) is enrolled:
+Course identification: CS100
+Course Credits: 3
+Course title: Principles of Computing
+Section: 1
+Instructor Name: Setia
+Meeting: TR in building: EGB from: 3:00 to: 4:30
+
+Course identification: CS101
+Course Credits: 2
+Course title: Preview of Computer Science
+Section: 1
+Instructor Name: Brodsky
+Meeting: F  in building: EGB from: 3:00 to: 4:30
+
+Course identification: CS225
+Course Credits: 3
+Course title: Culture and Theory of Games
+Section: 1
+Instructor Name: Setia
+Meeting: M  in building: ARB from: 3:00 to: 4:30
+
+Course identification: ENGH302
+Course Credits: 3
+Course title: Advanced Composition
+Section: 11
+Instructor Name: Chang
+Meeting: TR in building: EGB from: 3:00 to: 4:30
+
+Course identification: ENGH308
+Course Credits: 3
+Course title: Introduction Literary Theory
+Section: 1
+Instructor Name: Cheng
+Meeting: TR in building: EGB from: 3:00 to: 4:30
+
+Total Credits: 14
+Tuition: $4533.0
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Hyon  
+Student identification number: 53       
+Student major: CS
+Student status: Undergraduate
+
+Courses the student(53) is enrolled:
+Course identification: CS262
+Course Credits: 3
+Course title: Intro to Low-level Programming
+Section: 1
+Instructor Name: Barbara
+Meeting: T  in building: ARB from: 3:00 to: 4:30
+
+Course identification: CS450
+Course Credits: 3
+Course title: Database Concepts
+Section: 1
+Instructor Name: Dobolyi
+Meeting: W  in building: EGB from: 6:30 to: 7:45
+
+Total Credits: 6
+Tuition: $2266.5
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Lea  
+Student identification number: 54       
+Student major: CS
+Student status: Undergraduate
+
+Courses the student(54) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Katina  
+Student identification number: 55       
+Student major: CS
+Student status: Graduate
+
+Courses the student(55) is enrolled:
+Course identification: ART420
+Course Credits: 3
+Course title: Advanced Studies Ancient Art
+Section: 1
+Instructor Name: Carver
+Meeting: F  in building: MUB from: 10:00 to: 12:15
+
+Course identification: CS310
+Course Credits: 3
+Course title: Data Structures
+Section: 1
+Instructor Name: Carver
+Meeting: W  in building: ARB from: 3:00 to: 4:30
+
+Course identification: CS330
+Course Credits: 3
+Course title: Formal Methods and Models
+Section: 1
+Instructor Name: Chen
+Meeting: T  in building: ARB from: 6:30 to: 7:45
+
+Course identification: CS450
+Course Credits: 3
+Course title: Database Concepts
+Section: 1
+Instructor Name: Dobolyi
+Meeting: W  in building: EGB from: 6:30 to: 7:45
+
+Course identification: ENGH302
+Course Credits: 3
+Course title: Advanced Composition
+Section: 11
+Instructor Name: Chang
+Meeting: TR in building: EGB from: 3:00 to: 4:30
+
+Total Credits: 15
+Tuition: $5049.0
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Cherilyn  
+Student identification number: 56       
+Student major: CS
+Student status: Graduate
+
+Courses the student(56) is enrolled:
+Course identification: CS105
+Course Credits: 1
+Course title: Computer Ethics and Society
+Section: 1
+Instructor Name: Chen
+Meeting: F  in building: EGB from: 3:00 to: 4:30
+
+Total Credits: 1
+Tuition: $561.0
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Devon  
+Student identification number: 57       
+Student major: CS
+Student status: Undergraduate
+
+Courses the student(57) is enrolled:
+Course identification: CS101
+Course Credits: 2
+Course title: Preview of Computer Science
+Section: 1
+Instructor Name: Brodsky
+Meeting: F  in building: EGB from: 3:00 to: 4:30
+
+Course identification: CS211
+Course Credits: 3
+Course title: Object-Oriented Programming
+Section: 1
+Instructor Name: Ammann
+Meeting: M  in building: EGB from: 3:00 to: 4:30
+
+Total Credits: 5
+Tuition: $1888.75
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Zetta  
+Student identification number: 58       
+Student major: CS
+Student status: Undergraduate
+
+Courses the student(58) is enrolled:
+Course identification: CS211
+Course Credits: 3
+Course title: Object-Oriented Programming
+Section: 1
+Instructor Name: Ammann
+Meeting: M  in building: EGB from: 3:00 to: 4:30
+
+Course identification: CS222
+Course Credits: 3
+Course title: Computer Program for Engineers
+Section: 1
+Instructor Name: Brodsky
+Meeting: M  in building: ARB from: 3:00 to: 4:30
+
+Course identification: CS306
+Course Credits: 3
+Course title: Synt Ethics/Law for Comp Profe
+Section: 1
+Instructor Name: Barbara
+Meeting: F  in building: ARB from: 3:00 to: 4:30
+
+Total Credits: 9
+Tuition: $3399.75
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Ferdinand  
+Student identification number: 59       
+Student major: ART
+Student status: Undergraduate
+
+Courses the student(59) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Linette  
+Student identification number: 60       
+Student major: ART
+Student status: Undergraduate
+
+Courses the student(60) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Caroyln  
+Student identification number: 61       
+Student major: ART
+Student status: Undergraduate
+
+Courses the student(61) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Kandice  
+Student identification number: 62       
+Student major: ART
+Student status: Undergraduate
+
+Courses the student(62) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Christine  
+Student identification number: 63       
+Student major: ART
+Student status: Undergraduate
+
+Courses the student(63) is enrolled:
+Course identification: ART103
+Course Credits: 3
+Course title: Introduction to Architecture
+Section: 1
+Instructor Name: Stratten
+Meeting: W  in building: MUB from: 10:00 to: 12:15
+
+Total Credits: 3
+Tuition: $1133.25
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Lawerence  
+Student identification number: 64       
+Student major: ART
+Student status: Undergraduate
+
+Courses the student(64) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Song  
+Student identification number: 65       
+Student major: ART
+Student status: Undergraduate
+
+Courses the student(65) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Xavier  
+Student identification number: 66       
+Student major: ART
+Student status: Undergraduate
+
+Courses the student(66) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Sage  
+Student identification number: 67       
+Student major: ART
+Student status: non-degree
+
+Courses the student(67) is enrolled:
+Course identification: ART101
+Course Credits: 2
+Course title: Introduction to Visual Arts
+Section: 1
+Instructor Name: Head
+Meeting: M  in building: ARB from: 8:00 to: 9:15
+
+Course identification: ART203
+Course Credits: 3
+Course title: Survey of Asian Art
+Section: 1
+Instructor Name: Berg
+Meeting: W  in building: ARB from: 10:00 to: 12:15
+
+Course identification: ENGH302
+Course Credits: 3
+Course title: Advanced Composition
+Section: 11
+Instructor Name: Chang
+Meeting: TR in building: EGB from: 3:00 to: 4:30
+
+Total Credits: 8
+Tuition: $3022.0
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Damion  
+Student identification number: 68       
+Student major: ART
+Student status: Graduate
+
+Courses the student(68) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Basil  
+Student identification number: 69       
+Student major: ENGH
+Student status: Graduate
+
+Courses the student(69) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Gus  
+Student identification number: 70       
+Student major: ENGH
+Student status: Undergraduate
+
+Courses the student(70) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Mohammed  
+Student identification number: 71       
+Student major: ENGH
+Student status: Undergraduate
+
+Courses the student(71) is enrolled:
+Course identification: ENGH100
+Course Credits: 3
+Course title: Composition Nonnative Speakers
+Section: 1
+Instructor Name: Amireh
+Meeting: W  in building: MUB from: 10:00 to: 12:15
+
+Course identification: ENGH203
+Course Credits: 3
+Course title: Western Literary Traditions I
+Section: 1
+Instructor Name: Atkinson
+Meeting: TR in building: MUB from: 10:00 to: 12:15
+
+Total Credits: 6
+Tuition: $2266.5
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Neely  
+Student identification number: 72       
+Student major: ENGH
+Student status: Undergraduate
+
+Courses the student(72) is enrolled:
+Course identification: ENGH101
+Course Credits: 3
+Course title: Composition
+Section: 1
+Instructor Name: Anderson
+Meeting: F  in building: MUB from: 10:00 to: 12:15
+
+Course identification: ENGH202
+Course Credits: 3
+Course title: Texts and Contexts
+Section: 1
+Instructor Name: Anderson
+Meeting: TR in building: MUB from: 10:00 to: 12:15
+
+Total Credits: 6
+Tuition: $2266.5
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Blair  
+Student identification number: 73       
+Student major: ENGH
+Student status: Undergraduate
+
+Courses the student(73) is enrolled:
+Course identification: CS112
+Course Credits: 3
+Course title: Intro Computer Programming
+Section: 1
+Instructor Name: Dobolyi
+Meeting: F  in building: EGB from: 3:00 to: 4:30
+
+Total Credits: 3
+Tuition: $1133.25
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Susana  
+Student identification number: 74       
+Student major: ENGH
+Student status: Undergraduate
+
+Courses the student(74) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Tarah  
+Student identification number: 75       
+Student major: ENGH
+Student status: Undergraduate
+
+Courses the student(75) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Roselee  
+Student identification number: 76       
+Student major: ENGH
+Student status: Undergraduate
+
+Courses the student(76) is enrolled:
+Course identification: ENGH201
+Course Credits: 3
+Course title: Reading and Writng About Texts
+Section: 1
+Instructor Name: Albanese
+Meeting: W  in building: MUB from: 10:00 to: 12:15
+
+Total Credits: 3
+Tuition: $1133.25
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Roland  
+Student identification number: 77       
+Student major: ENGH
+Student status: Undergraduate
+
+Courses the student(77) is enrolled:
+Course identification: ART101
+Course Credits: 2
+Course title: Introduction to Visual Arts
+Section: 1
+Instructor Name: Head
+Meeting: M  in building: ARB from: 8:00 to: 9:15
+
+Course identification: ART201
+Course Credits: 3
+Course title: Survey of Western Art
+Section: 1
+Instructor Name: Sandell
+Meeting: W  in building: MUB from: 10:00 to: 12:15
+
+Total Credits: 5
+Tuition: $1888.75
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Sheba
+Student identification number: 78       
+Student major: ENGH
+Student status: Graduate
+
+Courses the student(78) is enrolled: NONE
+
+-------------------------------------------------
+Date mailed: 06/19/2014
+Semester: Summer 2014
+Student Name: Tegan
+Student identification number: 79       
+Student major: CS
+Student status: Undergraduate
+
+Courses the student(79) is enrolled: NONE
+
+-------------------------------------------------
