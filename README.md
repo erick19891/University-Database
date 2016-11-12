@@ -24,9 +24,9 @@ The second task uses Java to connect to the database and compute the students tu
 
 The amount due is computed as follows. 
 
-For undergraduate students: If enrolled in 11
-credits or less, tuition is per credit: $377.75; if enrolled in 12 credits or more, tuition is
-fixed: $4,533.00. For graduate students: If enrolled in 8 credits or less, tuition is per credit:
+For undergraduate students: If enrolled in 11 credits or less, tuition is per credit: $377.75; 
+if enrolled in 12 credits or more, tuition is fixed: $4,533.00. 
+For graduate students: If enrolled in 8 credits or less, tuition is per credit:
 $561.00; if enrolled in 9 credits or more, tuition is fixed: $5,049.00.
 Reports are generated for students that are not enrolled as well (with an appropriate remark to
 the recipient).
